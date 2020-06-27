@@ -1,9 +1,9 @@
 def new_hash
-
+ new => {}
 end
 
 def actor
-
+	famous_actor => {name: "Brad Pitt"}
 end
 
 def monopoly
